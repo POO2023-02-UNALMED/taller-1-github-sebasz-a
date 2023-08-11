@@ -1,3 +1,5 @@
 Juan Sebastian Pabuena Gomez
 18
 Aspiro aprender y dominar el paradigma de programacion POO
+Por que la carpeta ya no esta vacia
+Es importante tener cuidado porque podemos hacer que el archivo se malogre o que se pierdan cambios importantes en el mismo
